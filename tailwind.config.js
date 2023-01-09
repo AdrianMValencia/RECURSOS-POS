@@ -88,7 +88,7 @@ module.exports = {
         light: 'rgba(var(--color-warn), .1)',
         DEFAULT: 'rgb(var(--color-warn))',
       },
-      //SMART NEW COLORS PALLETE
+      //NEW COLORS
       'am-base':{
         background : '#F4F6FF'
       },
@@ -143,7 +143,7 @@ module.exports = {
         dark: '#7164b1'
       },
 
-      //SMART COLORS
+      //COLORS
       'am-purple' :  {
         transparent: '#757de338',
         relight: '#f0f1ff',
