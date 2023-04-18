@@ -1,0 +1,11 @@
+toggleVisibility() {
+    if (this.visible) {
+      this.inputType = "password";
+      this.visible = false;
+      this.cd.markForCheck();
+    } else {
+      this.inputType = "text";
+      this.visible = true;
+      this.cd.markForCheck();
+    }
+  }
